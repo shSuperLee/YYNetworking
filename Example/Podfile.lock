@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YYNetWork (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YYNetWork (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  YYNetWork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YYNetWork: 91c994622992ad4cce0e92d1f6a87dd28ef5a43d
+
+PODFILE CHECKSUM: 80bf98c5565270e61fb636dc50dd830169084f1c
+
+COCOAPODS: 1.11.3

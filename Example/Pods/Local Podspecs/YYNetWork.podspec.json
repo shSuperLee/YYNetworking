@@ -1,0 +1,22 @@
+{
+  "name": "YYNetWork",
+  "version": "0.1.0",
+  "summary": "A short description of YYNetWork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shSuperYang@126.com/YYNetWork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shSuperYang@126.com": "liyang@5173.com"
+  },
+  "source": {
+    "git": "https://github.com/shSuperYang@126.com/YYNetWork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YYNetWork/Classes/**/*"
+}
